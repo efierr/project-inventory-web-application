@@ -61,6 +61,7 @@ When you submit your pull request, _make sure to include a description of any st
 - Allow for the ability to edit existing resources, by using the already existing form.
 - Incorporate complex CSS properties like [transition effects](https://css-tricks.com/almanac/properties/t/transition/).
 - Create a Footer that sticks to the bottom of the browser window even if all elements have been removed.
+- Use [local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to save information and have it persist between refreshes
 
 ## Project setup and overview
 
