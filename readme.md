@@ -24,6 +24,7 @@ In total, you must receive at least 70% to complete this project. For example, y
 3. The page should have a cohesive and professional style, that makes use of a few specific colors.
 1. The page should make use of CSS Grid, and include at least two columns.
 1. The page should have at least one responsive element on the page that changes depending on the screen's size.
+1. You can choose to implement your own design or copy the one in the examples below
 
 ### On Load Features
 
