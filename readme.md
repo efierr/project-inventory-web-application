@@ -56,7 +56,7 @@ To view components of the mastery rubric, view the appropriate assignment on Can
 
 This section of the project measures your ability to go above and beyond in creating your project. To score points in this section, you should incorporate a feature, technology, or skill not explicitly required by the project instructions.
 
-When you submit your pull request, _make sure to include a description of any stretch goals you implemented._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
+When you submit your pull request, _make sure to include a description of any stretch goals you implemented._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project in conjunction with your coach.
 
 - When a resource is clicked, the element is expanded and more information is displayed.
 - If a field is missing a value, provide a default value when a resource is created on the page.
