@@ -29,10 +29,12 @@ In total, you must receive at least 70% to complete this project. For example, y
 ### On Load Features
 
 6. Users can see a header on the top of the page that includes a title for the web application.
-1. Users can see three unique resources, that include the following fields and at least two others:
-   - name
-   - price
-   - in stock
+1. Users can see 5 unique resources, that include the following fields and at least two others:
+   1. name
+   1. price
+   1. in stock
+   2. Your choice of resource
+   2. Your choice of resource
 1. Users can see a "Remove" button associated with each resource.
 1. Users can see a form that includes all fields for each resource, a "Submit" button, and a "Reset" button.
 
